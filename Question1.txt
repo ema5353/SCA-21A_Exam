@@ -1,0 +1,1 @@
+The git blame command is a flexible tool with several options of use. The most important function of the git blame command is the display of author metadata attached to a particular committed line in a file. It is used for exploring the file history and finding out the last author who changed the line.
