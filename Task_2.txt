@@ -1,0 +1,3 @@
+git revert makes a new commit
+
+git revert simply creates a new commit that is the opposite of an existing commit. 
